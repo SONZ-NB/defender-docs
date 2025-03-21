@@ -26,8 +26,6 @@ ms.date: 06/25/2024
 
 > Want to experience Defender for Endpoint? [Sign up for a free trial.](https://go.microsoft.com/fwlink/p/?linkid=2225630)
 
-Enable the content analysis capability so that certain files and email attachments can automatically be uploaded to the cloud for additional inspection in Automated investigation.
-
 Microsoft uses various file investigation mechanisms to inspect and analyze files.
 
 Identify the files and email attachments by specifying the file extension names and email attachment extension names.
